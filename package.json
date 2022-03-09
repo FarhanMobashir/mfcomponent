@@ -1,5 +1,5 @@
 {
-  "name": "m-cl",
+  "name": "mcomponent",
   "version": "1.0.1",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
