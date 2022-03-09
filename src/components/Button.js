@@ -6,6 +6,8 @@ const StyledButton = styled.button`
   padding: 10px 20px;
   color: white;
   background-color: red;
+
+  border-radius: 10px;
 `;
 
 export const Button = ({ label }) => {
